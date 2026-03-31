@@ -1,0 +1,4 @@
+http://gopl.io
+http://linkedin.com
+http://gobyexample.com
+http://bad-gopl.io
